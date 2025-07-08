@@ -9,7 +9,7 @@ Web geliştirme, Discord botları ve sistem kurulumu alanlarında freelance hizm
 - Sistem Kurulum ve Otomasyon
 
 ## 🌐 Siteyi Görüntüle
-🔗 [tayfundev.github.io](https://tayfundev.github.io)
+🔗 [tayfunarik.github.io](https://tayfunarik.github.io)
 
 ## 📬 İletişim
 📧 Mail: tayfunarik10@hotmail.com  
